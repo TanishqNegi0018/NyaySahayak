@@ -1,0 +1,40 @@
+{
+  "placeholderImages": [
+    {
+      "id": "hero-image",
+      "description": "Lady justice statue with scales",
+      "imageUrl": "https://images.unsplash.com/photo-1760089449852-e8cade7feb53?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw5fHxqdXN0aWNlJTIwc3RhdHVlfGVufDB8fHx8MTc2OTg4NjM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "justice statue"
+    },
+    {
+      "id": "feature-1",
+      "description": "A person analyzing data on a computer screen",
+      "imageUrl": "https://images.unsplash.com/photo-1551288049-bebda4e38f71?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwyfHxkYXRhJTIwYW5hbHlzaXN8ZW58MHx8fHwxNzY5ODY5NzMxfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "data analysis"
+    },
+    {
+      "id": "feature-2",
+      "description": "A person getting step-by-step guidance on a tablet",
+      "imageUrl": "https://images.unsplash.com/photo-1662153480559-0485a7848921?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxjaGVja2xpc3QlMjBndWlkYW5jZXxlbnwwfHx8fDE3Njk4ODYzNTJ8MA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "checklist guidance"
+    },
+    {
+      "id": "feature-3",
+      "description": "An automatically generated legal document on a laptop screen",
+      "imageUrl": "https://images.unsplash.com/photo-1668852222395-11d9154ade25?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwzfHxkb2N1bWVudCUyMGdlbmVyYXRpb258ZW58MHx8fHwxNzY5NzgyOTMzfDA&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "document generation"
+    },
+    {
+      "id": "auth-background",
+      "description": "A modern and grand courthouse building facade",
+      "imageUrl": "https://images.unsplash.com/photo-1758656803122-67f952a60d56?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHw4fHxjb3VydCUyMGJ1aWxkaW5nfGVufDB8fHx8MTc2OTg4NjM1Mnww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "court building"
+    },
+    {
+      "id": "new-case-background",
+      "description": "A person signing a legal document",
+      "imageUrl": "https://images.unsplash.com/photo-1568827999232-53693a955f13?crop=entropy&cs=tinysrgb&fit=max&fm=jpg&ixid=M3w3NDE5ODJ8MHwxfHNlYXJjaHwxfHxsZWdhbCUyMGRvY3VtZW50fGVufDB8fHx8MTc3MDA3NzM1NHww&ixlib=rb-4.1.0&q=80&w=1080",
+      "imageHint": "legal document"
+    }
+  ]
+}
